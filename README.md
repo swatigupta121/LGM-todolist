@@ -1,2 +1,2 @@
-# lgm-todolist
+# LGM-todolist
 First task of LGM internship.
